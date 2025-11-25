@@ -3,7 +3,7 @@
 ### Install
 ```bash
 
-pip install scikit-learn tqdm h5py
+pip install scikit-learn tqdm h5py gradio ipywidgets
 
 pip install scikit-image
 ```
